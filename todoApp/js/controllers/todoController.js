@@ -1,6 +1,6 @@
 (function(){
   angular
-    .module('todoMVC')
+    .module('todoApp')
     .controller('todoController', todoController);
 
   function todoController(){

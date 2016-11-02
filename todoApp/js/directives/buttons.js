@@ -1,5 +1,5 @@
 (function(){
-  angular.module('todoMVC')
+  angular.module('todoApp')
 .directive('buttons', function() {
   return {
     templateUrl:'../../html/buttons.html'
